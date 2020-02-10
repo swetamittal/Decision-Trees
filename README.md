@@ -1,5 +1,6 @@
 # Decision-Trees
 
-Decision trees are basically flowcharts in which decision is made at each level whih could divide the data into nodes which help in classification as well as making predictions.
+Decision trees are basically flowcharts in which decision is made at each level whih could divide the data into nodes which help in classification as well as making predictions. For example: 
+For a XOR operation on two variables: 
 
 In this project, I have implemented decision trees(self and inbuilt) on IRIS dataset.(A dataset containing three types of flowers).
